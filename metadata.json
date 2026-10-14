@@ -1,0 +1,6 @@
+{
+  "name": "SpellSpark - Dyslexia-Friendly Spelling Adventure",
+  "description": "Fun, multisensory spelling practice for 7-year-olds with drag-down word boxes, encouraging audio feedback, phonics chunking, dyslexia visual tools, and detailed parent progress reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
